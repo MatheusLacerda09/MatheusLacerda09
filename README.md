@@ -76,18 +76,6 @@
 
 ---
 
-## 📈 Estatísticas do GitHub
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLacerda09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <br/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLacerda09&layout=compact&theme=tokyonight&border_radius=10" />
-
-</div>
-<br/>
-
----
-
 <div align="center">
   <sub>✨ Desenvolvido com carinho por <b>Matheus Lacerda</b></sub>
 </div>
