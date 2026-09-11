@@ -2,7 +2,7 @@
 
 **`Back-End Web Developer | Software Engineer`**
 
-<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif" width="100%" />
+<img src="https://i.pinimg.com/originals/e1/7a/b9/e17ab9681bec36303a67cd0e13a7b170.gif](https://wallpaperaccess.com/full/6604090.gif" width="100%" />
 
 > "I'm a back-end developer passionate about solving problems through clean, structured code. I build services that give me experiences."
 
