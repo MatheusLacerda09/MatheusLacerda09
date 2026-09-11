@@ -79,13 +79,11 @@
 ## 📈 Estatísticas do GitHub
 
 <div align="center">
-
-  ### 📊 Estatísticas do GitHub
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheus-lacerdaaa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheus-lacerdaaa&layout=compact&theme=tokyonight&border_radius=10" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusLacerda09&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10" />
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusLacerda09&layout=compact&theme=tokyonight&border_radius=10" />
 
 </div>
-
 <br/>
 
 ---
